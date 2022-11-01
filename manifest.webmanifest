@@ -1,15 +1,15 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "Newborn Feeding Meter",
+  "short_name": "NFM",
+  "description": "Utilities for sleep-deprived parents",
+  "scope": "/newborn-feeding-meter/",
+  "start_url": "/newborn-feeding-meter/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/newborn-feeding-meter/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
